@@ -93,3 +93,40 @@ body{
   font-family: Montserrat;
 }
 
+.mm{
+ font-family: Montserrat;
+}
+
+.sso{
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 50px;   
+}
+
+.herrr{
+  text-align: center;
+}
+
+.hro{
+  padding-top: 540px;
+  font-family: Montserrat;
+}
+.photos{
+  margin: 30px;
+  padding: 30px;
+  float: left; 
+  
+}
+
+.pic{
+  width: 100%;
+  border-radius: 3%;
+  height: 174px;
+  width: 262px;
+}
+
+.xu{
+  width: 22%;
+  float: left;
+  margin: 11px;  
+}
