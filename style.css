@@ -168,7 +168,7 @@ margin-top: -1081px;
 position: absolute;
 text-align: center;
 background-color: #c4fb6d;
-height: 900px;
+height: 995px;
 width: 100%;
 }
 
@@ -216,9 +216,137 @@ margin-top: 177px;
   position: absolute;
 margin: 19px;
   margin-top: 19px;
+margin-top: 19px;
 margin-top: 962px;
 margin-top: 499px;
 padding: 30px;
-margin-top: -481px;
+margin-top: 577px;
 }
 
+.img5{
+  position: absolute;
+  margin: 506px;
+    margin-top: 506px;
+  margin-top: 19px;
+  margin-top: 19px;
+  margin-top: 962px;
+  margin-top: 499px;
+  padding: 30px;
+  margin-top: 577px;
+}
+
+.img6{
+  position: absolute;
+  margin: 970px;
+    margin-top: 506px;
+  margin-top: 19px;
+  margin-top: 19px;
+  margin-top: 962px;
+  margin-top: 499px;
+  padding: 30px;
+  margin-top: 577px;
+}
+
+.comp{
+  height:200px;
+  width:100%;
+}
+.or{
+  text-align: center;
+  margin: 100px;
+  padding: 17px;
+  margin-top: 211px;
+  padding-top: 850px;
+}
+
+.ocm{
+  font-family: Montserrat;
+font-weight: 900;  
+}
+
+.ocmp{
+  font-size: 17px;
+font-family: Montserrat;
+}
+.cimg{
+  margin-left: 713px;
+  margin-top: -112px;
+  padding: 20px;
+  float: right;
+  position: absolute;
+}
+.ars{
+  position: absolute;
+margin: 32px;
+padding: 92px;
+margin-top: -160px;
+}
+.ssa{
+  line-height: 1.5;
+font-family: Montserrat;
+font-size: 15px; 
+}
+.arrow-point{
+  float: left;
+height: 20px;
+}
+.points{
+  padding-left: 30px;
+  font-family: Montserrat;
+}
+.btn {
+  background: #158a11;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 9px;
+font-family: Arial;
+color: #ffffff;
+font-size: 17px;
+padding: 20px 20px 10px 20px;
+text-decoration: none;
+padding-top: 13px;
+margin-top: 20px;
+}
+
+.btn:hover {
+  background: #0d70b1;
+ 
+}
+
+.map{
+margin-top: 1206px;
+
+}
+
+footer{
+  background-color: black;
+  padding-top: 20px;
+padding-bottom: 20px;
+height: 350px;
+width: 100%;
+}
+
+.fotter-text{
+  font-family: Montserrat;
+color: #c4fb6d;
+text-shadow: 0 0 0.8em #c4fb6d, 0 0 0.6em #bac964;
+}
+
+.test-t{
+  width: 23%;
+float: left;
+margin: 11px;
+}
+
+.leona{
+  max-width: 1140px;
+margin: 0 auto;
+padding: 0 50px;
+}
+
+.foo1{
+  color: white;
+  list-style: none;
+padding: 0;
+line-height: 1.5;
+}
