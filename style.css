@@ -100,7 +100,8 @@ body{
 .sso{
   max-width: 1140px;
   margin: 0 auto;
-  padding: 0 50px;   
+  padding: 0 50px; 
+  /* float: left;   */
 }
 
 .herrr{
@@ -111,10 +112,37 @@ body{
   padding-top: 540px;
   font-family: Montserrat;
 }
-.photos{
+.photos1{
   margin: 30px;
   padding: 30px;
   float: left; 
+  
+}
+
+.photos2{
+  margin: 354px;
+  margin-top: 354px;
+padding: 29px;
+float: left;
+margin-top: -445px;
+  
+}
+
+.photos3{
+  margin: 666px;
+  margin-top: 666px;
+padding: 30px;
+float: left;
+margin-top: -768px;
+  
+}
+
+.photos4{
+  margin: 1036px;
+  margin-top: 1036px;
+padding: 30px;
+float: left;
+margin-top: -1081px;
   
 }
 
@@ -127,6 +155,70 @@ body{
 
 .xu{
   width: 22%;
-  float: left;
+  /* float: left; */
   margin: 11px;  
 }
+
+.ohvaisab{
+  background-color: #c4fb6d;
+  margin-top: 486px;
+}
+
+.ready{
+position: absolute;
+text-align: center;
+background-color: #c4fb6d;
+height: 900px;
+width: 100%;
+}
+
+.ready1{
+  font-family: Montserrat;
+}
+
+.leom{
+  font-family: Montserrat;
+}
+
+.imp{
+  height: 237px;
+  width: 357px;
+  border-radius: 10px;
+}
+
+.img1{
+  position: absolute;
+  margin: 20px;
+  padding: 30px;
+  margin-top: 176px;
+}
+.img2{
+  position: absolute;
+margin: 499px;
+  margin-top: 499px;
+margin-top: 499px;
+padding: 30px;
+margin-top: 177px;
+}
+
+.img3{
+  position: absolute;
+  margin: 962px;
+    margin-top: 962px;
+  margin-top: 962px;
+  margin-top: 499px;
+  padding: 30px;
+  margin-top: 175px;
+}
+
+
+.img4{
+  position: absolute;
+margin: 19px;
+  margin-top: 19px;
+margin-top: 962px;
+margin-top: 499px;
+padding: 30px;
+margin-top: -481px;
+}
+
