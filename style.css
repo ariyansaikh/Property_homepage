@@ -289,10 +289,13 @@ font-size: 15px;
 .arrow-point{
   float: left;
 height: 20px;
+padding-top: 19px;
 }
 .points{
   padding-left: 30px;
   font-family: Montserrat;
+  padding-top: 10px;
+  
 }
 .btn {
   background: #158a11;
@@ -306,6 +309,7 @@ padding: 20px 20px 10px 20px;
 text-decoration: none;
 padding-top: 13px;
 margin-top: 20px;
+margin-left: 43px;
 }
 
 .btn:hover {
@@ -314,7 +318,7 @@ margin-top: 20px;
 }
 
 .map{
-margin-top: 1206px;
+margin-top: 1290px;
 
 }
 
@@ -349,4 +353,11 @@ padding: 0 50px;
   list-style: none;
 padding: 0;
 line-height: 1.5;
+}
+.list-of{
+  display: inline-block;
+}
+
+.disco{
+  line-height: 0px;
 }
